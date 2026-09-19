@@ -1,0 +1,14 @@
+Event-Management
+│
+├── app.py
+├── requirements.txt
+├── README.md
+│
+├── templates
+│   ├── index.html
+│   ├── create_event.html
+│   ├── register.html
+│   └── registrations.html
+│
+└── static
+    └── style.css
